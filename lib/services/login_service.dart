@@ -1,6 +1,6 @@
 import 'package:http/http.dart' as http;
 import 'package:xml/xml.dart';
-import 'dashboard_model.dart'; // Modelinizin yolu doğru olmalıdır
+import '../models/dashboard_model.dart'; // Modelinizin yolu doğru olmalıdır
 
 class TradeDataService {
   Future<List<TradeData>> fetchTradeData(

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'dart:convert';
 
-import 'package:fx_dashboard/login_screen.dart';
+import 'package:fx_dashboard/pages/login_screen.dart';
 
 void main() {
   runApp(MyApp());

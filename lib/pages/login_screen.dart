@@ -1,7 +1,7 @@
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
-import 'package:fx_dashboard/dashboard_screen.dart';
-import 'package:fx_dashboard/login_service.dart';
+import 'package:fx_dashboard/pages/dashboard_screen.dart';
+import 'package:fx_dashboard/services/login_service.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 // Hive paketini kullanacaksanız, 'package:hive/hive.dart'; ekleyin.

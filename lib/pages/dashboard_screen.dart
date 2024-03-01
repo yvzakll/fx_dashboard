@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:fx_dashboard/const.dart';
-import 'package:fx_dashboard/dashboard_model.dart';
-import 'package:fx_dashboard/login_screen.dart';
-import 'package:fx_dashboard/login_service.dart';
+import 'package:fx_dashboard/constants/const.dart';
+import 'package:fx_dashboard/models/dashboard_model.dart';
+import 'package:fx_dashboard/pages/login_screen.dart';
+import 'package:fx_dashboard/services/login_service.dart';
 import 'package:intl/intl.dart';
 import 'package:xml/xml.dart';
 import 'package:http/http.dart' as http;
